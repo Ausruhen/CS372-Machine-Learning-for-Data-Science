@@ -1,3 +1,5 @@
+For formatted Description of Full project see project 2 instructions pdf.
+
 Programming Project 2: Neural Nets
 Deadline: February 17, 2025
 Task Overview. In this project, you are going to work with different types of datasets and build neural net models based on these datasets. You will need to complete the following tasks:
